@@ -1,4 +1,4 @@
-# CIFAR-10 Image Classification with Hyperparameter Tuning
+# Custom CNN Image Classification with Advanced Hyperparameter Tuning
 
 This project aims to classify images from the CIFAR-10 dataset using a Convolutional Neural Network (CNN) with hyperparameter tuning. The project utilizes Keras Tuner to optimize the model's architecture and hyperparameters, achieving improved accuracy on image classification.
 
